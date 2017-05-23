@@ -8,6 +8,7 @@ public class Test {
 		//duorong이 수정함
 		int j=0;
 		System.out.println("j="+j);
+		//merge
 	}
 
 }
